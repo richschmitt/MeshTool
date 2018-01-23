@@ -1,0 +1,15 @@
+C:\Users\rschmitt\Documents\GitHub\MeshTool\MeshTool\MeshTool\bin\Debug\MeshTool.exe.config
+C:\Users\rschmitt\Documents\GitHub\MeshTool\MeshTool\MeshTool\obj\Debug\MeshTool.csprojResolveAssemblyReference.cache
+C:\Users\rschmitt\Documents\GitHub\MeshTool\MeshTool\MeshTool\obj\Debug\MainWindow.g.cs
+C:\Users\rschmitt\Documents\GitHub\MeshTool\MeshTool\MeshTool\obj\Debug\App.g.cs
+C:\Users\rschmitt\Documents\GitHub\MeshTool\MeshTool\MeshTool\obj\Debug\MeshTool_MarkupCompile.cache
+C:\Users\rschmitt\Documents\GitHub\MeshTool\MeshTool\MeshTool\obj\Debug\MeshTool_MarkupCompile.lref
+C:\Users\rschmitt\Documents\GitHub\MeshTool\MeshTool\MeshTool\bin\Debug\MeshTool.exe
+C:\Users\rschmitt\Documents\GitHub\MeshTool\MeshTool\MeshTool\bin\Debug\MeshTool.pdb
+C:\Users\rschmitt\Documents\GitHub\MeshTool\MeshTool\MeshTool\bin\Debug\ETABS2016.dll
+C:\Users\rschmitt\Documents\GitHub\MeshTool\MeshTool\MeshTool\obj\Debug\MainWindow.baml
+C:\Users\rschmitt\Documents\GitHub\MeshTool\MeshTool\MeshTool\obj\Debug\MeshTool.g.resources
+C:\Users\rschmitt\Documents\GitHub\MeshTool\MeshTool\MeshTool\obj\Debug\MeshTool.Properties.Resources.resources
+C:\Users\rschmitt\Documents\GitHub\MeshTool\MeshTool\MeshTool\obj\Debug\MeshTool.csproj.GenerateResource.Cache
+C:\Users\rschmitt\Documents\GitHub\MeshTool\MeshTool\MeshTool\obj\Debug\MeshTool.exe
+C:\Users\rschmitt\Documents\GitHub\MeshTool\MeshTool\MeshTool\obj\Debug\MeshTool.pdb
